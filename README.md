@@ -1,6 +1,19 @@
-Sistema de Gestión de Citas Médicas Este proyecto implementa una base de datos para el manejo de citas médicas en una clínica, incluyendo la gestión de pacientes, médicos, especialidades y las citas agendadas.
-Contenido Modelo ER del sistema Modelo Relacional Código SQL completo Diccionario de datos Consultas básicas para visualizar información
-Tecnologías MySQL SQL Workbench Herramientas de modelado ER (Draw.io)
-Cómo usar Ejecutar el archivo .sql en SQL Workbench. Revisar los datos de prueba insertados. Consulta la base de datos usando las consultas propuestas.
+Base de Datos
 
-Juan Sebastián Monroy Bernal-Ficha:3141973
+ACTIVIDAD
+Taller Final en SQL Workbench 
+
+
+Nombres de los aprendices
+MIGUEL ÁNGEL ARDILA CHÁVEZ
+
+
+
+
+SERVICIO NACIONAL DE APRENDIZAJE SENA
+REGIONAL DISTRITO CAPITAL
+CENTRO DE SERVICIOS FINANCIEROS
+TÉCNICO EN PROGRAMACIÓN DE SOFTWARE
+FICHA 3141973
+BOGOTÁ D.C.
+2025
