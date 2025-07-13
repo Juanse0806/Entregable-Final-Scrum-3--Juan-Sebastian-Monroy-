@@ -2,3 +2,5 @@ Sistema de Gestión de Citas Médicas Este proyecto implementa una base de datos
 Contenido Modelo ER del sistema Modelo Relacional Código SQL completo Diccionario de datos Consultas básicas para visualizar información
 Tecnologías MySQL SQL Workbench Herramientas de modelado ER (Draw.io)
 Cómo usar Ejecutar el archivo .sql en SQL Workbench. Revisar los datos de prueba insertados. Consulta la base de datos usando las consultas propuestas.
+
+Juan Sebastián Monroy Bernal-Ficha:3141973
